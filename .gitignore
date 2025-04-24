@@ -1,0 +1,17 @@
+# Node (Frontend)
+Stripe-Store-Front/node_modules/
+Stripe-Store-Front/.next/
+Stripe-Store-Front/.env
+Stripe-Store-Front/.turbo/
+
+# Python (Backend)
+Stripe-Store-Back/__pycache__/
+Stripe-Store-Back/*.pyc
+Stripe-Store-Back/.env
+Stripe-Store-Back/db.sqlite3
+
+# Global
+.vscode/
+.env
+.DS_Store
+*.log
